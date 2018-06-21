@@ -18,4 +18,4 @@ If the board is powered on but with no intention of inyect a payload it will go 
 
 For now it has the Hekate 2.3 payload in payload.h with LayeredFS support, based on https://github.com/TheDgtl/hekate/releases/tag/v2.3-fusee
 
-https://github.com/tumGER/SDFilesSwitch/releases
+In order to boot CFW on the Switch you will need to put these files into your microSD: https://github.com/tumGER/SDFilesSwitch/releases
